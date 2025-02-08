@@ -104,31 +104,7 @@ const linkData = [
     {
         title: "Work",
         links: [
-            { name: "泰镁会办公", url: "https://hbg.taimeiyun.cn/login" },
-            { name: "华志信自动办公平台", url: "https://www.huazx.cn/hzxoa/a/login;JSESSIONID=98a5a7b7a61f4625b880824da62596e8" },
-            { name: "中华人民共和国生态环境部法规标准", url: "https://www.mee.gov.cn/ywgz/fgbz/" },
-            { name: "大气监督帮扶", url: "http://114.251.10.199:8080/zfpt_zf/redirect.jsp" },
-            { name: "全国排污许可证管理信息平台-管理端", url: "http://10.100.248.253/permit/pollutant/pollutant!goPollutant.action" },
-            { name: "全国排污许可证管理信息平台-公开端", url: "https://permit.mee.gov.cn/permitExt/defaults/default-index!getInformation.action" },
-            { name: "重点排污单位自动监控数据", url: "https://jkzx.envsc.cn/jointframe/login" },
-            { name: "环境行政处罚案件办理信息系统", url: "http://210.12.80.51:8088/Penalize2013/index.jsp" },
-            { name: "国家生态环境保护综合行政执法监管平台", url: "http://114.251.10.24:7070/cas/login?service=http%3A%2F%2F114.251.10.120%3A80%2Fhbb_zfpt%2Fpaas%2Fcas%2Flogin.jsp&serverUrlPrefix=http://114.251.10.120:80/hbb_zfpt" },
-            { name: "全国生态环境信访投诉举报管理平台", url: "http://114.251.10.94/weixinmanager/#/login" },
-            { name: "重点区域空气质量改善监督帮扶平台", url: "http://10.100.245.220:8088/view/view/show/index.vm;jsessionid=DDBBA393A9DB3A57643167DE82A83CAA;jsessionid=601B74070685EC2EBC187C2983E50026?screenId=17025d2030e2041bd256e305f7c98921" },
-            { name: "国家电网", url: "http://210.77.177.58/" },
-            { name: "环评智慧监管平台", url: "http://10.102.33.164:8080/EIAITM/a" },
-            { name: "全国非现场监管执法服务平台", url: "http://10.251.104.78:12315/zhzs-platform/wry-online" },
-            { name: "环评云助手", url: "https://www.eiacloud.com/hpyzs/" },
-            { name: "真气网", url: "https://www.zq12369.com/?city=%E5%8C%97%E4%BA%AC&tab=city" },
-            { name: "真气网|全国实时分布图", url: "https://www.zq12369.com/environment.php?tab=china&city=%E6%9D%AD%E5%B7%9E&order=desc#envtab&catid=9" },
-            { name: "MSN空气质量", url: "https://www.msn.cn/zh-cn/weather/forecast/in-%E5%8C%97%E4%BA%AC%E5%B8%82,%E7%9F%B3%E6%99%AF%E5%B1%B1%E5%8C%BA?loc=eyJsIjoi55%2Bz5pmv5bGx5Yy6IiwiciI6IuWMl%2BS6rOW4giIsInIyIjoi5YyX5Lqs5biCIiwiYyI6IuS4reWNjuS6uuawkeWFseWSjOWbvSIsImkiOiJjbiIsInQiOjEwMiwiZyI6InpoLWNuIiwieCI6IjExNi4yMjI5OSIsInkiOiIzOS45MDU2OSJ9&weadegreetype=C&ocid=msedgntp&cvid=38d19bb8b1b74e23af327f6338cdf435" },
-            { name: "空气质量历史数据", url: "https://www.aqistudy.cn/historydata/index.php" },
-            { name: "北京空气质量", url: "https://zx.bjmemc.com.cn/getAqiList.shtml?timestamp=1735503115320" },
-            { name: "上海环境能源交易所", url: "https://www.cneeex.com/qgtpfqjy/mrgk/2025n/" },
-            { name: "中国产品全生命周期温室气体排放系数库", url: "https://lca.cityghg.com/" },
-            { name: "全国人力资源和社会保障政务服务平台", url: "https://zwfw.mohrss.gov.cn/" },
-            { name: "自然资源部地图技术审查中心", url: "https://www.zrzyst.cn/" },
-            { name: "北京市人民政府", url: "https://www.beijing.gov.cn/" },
+
             { name: "BOSS直聘", url: "https://www.zhipin.com/wuhan/?ka=header-home-logo&seoRefer=index" },
 
             
